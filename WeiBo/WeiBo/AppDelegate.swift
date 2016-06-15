@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  xinLangWeiBo
+//  WeiBo
 //
 //  Created by LuzhiChao on 16/6/15.
 //  Copyright © 2016年 LuzhiChao. All rights reserved.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-//@UIApplicationMain
+@UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?

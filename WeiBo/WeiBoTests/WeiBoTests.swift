@@ -1,15 +1,15 @@
 //
-//  xinLangWeiBoTests.swift
-//  xinLangWeiBoTests
+//  WeiBoTests.swift
+//  WeiBoTests
 //
 //  Created by LuzhiChao on 16/6/15.
 //  Copyright © 2016年 LuzhiChao. All rights reserved.
 //
 
 import XCTest
-@testable import xinLangWeiBo
+@testable import WeiBo
 
-class xinLangWeiBoTests: XCTestCase {
+class WeiBoTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

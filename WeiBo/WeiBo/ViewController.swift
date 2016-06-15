@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  xinLangWeiBo
+//  WeiBo
 //
 //  Created by LuzhiChao on 16/6/15.
 //  Copyright © 2016年 LuzhiChao. All rights reserved.

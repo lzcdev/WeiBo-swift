@@ -1,6 +1,6 @@
 //
-//  xinLangWeiBoUITests.swift
-//  xinLangWeiBoUITests
+//  WeiBoUITests.swift
+//  WeiBoUITests
 //
 //  Created by LuzhiChao on 16/6/15.
 //  Copyright © 2016年 LuzhiChao. All rights reserved.
@@ -8,7 +8,7 @@
 
 import XCTest
 
-class xinLangWeiBoUITests: XCTestCase {
+class WeiBoUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()
